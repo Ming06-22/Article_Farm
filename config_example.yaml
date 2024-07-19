@@ -1,0 +1,19 @@
+meta:
+  page_id: 
+  access_token: 
+ai_key:
+  openai: 
+  gemini: 
+wordpress:
+  user: 
+  password: 
+  domain: 
+readability:
+  user_agent: 
+openai:
+  assistant_id: 
+  vector_space_id: 
+article: 
+  - category: 
+    category_id: 
+    prompt:  

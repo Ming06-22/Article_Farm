@@ -1,0 +1,12 @@
+[packages]
+requests 
+pyyaml 
+beautifulsoup4 
+readability 
+pillow 
+lxml-html-clean 
+alive-progress 
+readability-lxml 
+openai 
+pyautogen 
+diskcache 

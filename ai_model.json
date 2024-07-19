@@ -1,0 +1,14 @@
+[
+    {
+        "model": "dalle",
+        "api_key": ""
+    },
+    {
+        "model": "gemini-pro-vision",
+        "api_key": ""
+    },
+    {
+        "model": "gpt-4-turbo",
+        "api_key": ""
+    }
+]
